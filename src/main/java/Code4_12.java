@@ -1,6 +1,6 @@
 public class Code4_12 {
     public static void main(String[] args) {
-        String ss = "First Java를 공부 중입니다.";
+        String ss = "First Java 를 공부 중입니다.";
         String var1, var2;
 
         var1 = ss.toUpperCase();
